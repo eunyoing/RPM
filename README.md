@@ -1,16 +1,35 @@
-# rpm_test2
+# RPM
 
-A new Flutter project.
+Running Pace Music coaching service
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub get
+flutter run
+```
+## Description
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+RPM (Running Pace Music)은 러너가 설정한 BPM에 맞춰 음악과 메트로놈을 제공하는 앱입니다. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+- **Flutter**: Cross-platform UI toolkit
+- **Dart**: 개발 언어
+- **Android Studio**: 주요 개발 툴
+- **Firebase**
+
+## Contributors
+
+## 👥 Contributors
+
+| 이름     | 역할                                                         |
+|----------|--------------------------------------------------------------|
+| 황은영   | Flutter 앱 개발, UI/UX 디자인, 기능 구현, 발표용 PPT 제작, 포스터 디자인    |
+| 김경은   | Flutter 앱 개발, UI/UX 디자인, 중간 보고서 작성               |
+| 김진하   | Flutter 앱 개발, Firebase 연동, 최종 보고서 작성              |
+| 박준형   | 발표용 PPT 제작, 포스터 디자인                                |
+| 추민정   | Flutter 앱 개발, 핵심 기능 구현                              |
+
