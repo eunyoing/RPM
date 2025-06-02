@@ -8,7 +8,7 @@ To run this project:
 
 ```bash
 flutter pub get
-flutter run
+flutter run -t lib/first.dart
 ```
 ## Description
 
